@@ -42,7 +42,7 @@ Models:
 
 | Method | Endpoint     | **Description** |
 | :-------- | :------- | :------------------------- |
-| `POST` | `https://blog-fawn-sigma.vercel.app/api/auth/register` | Register User |
+| `POST` | ```https://blog-fawn-sigma.vercel.app/api/auth/register``` | Register User |
 | `POST` | `https://blog-fawn-sigma.vercel.app/api/auth/login` | Login User |
 | `POST` | `https://blog-fawn-sigma.vercel.app/api/blogs` | Create Blog |
 | `UPDATE` | `https://blog-fawn-sigma.vercel.app/api/blogs/:id` | Update Blog |
