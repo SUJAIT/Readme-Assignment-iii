@@ -86,6 +86,6 @@ Password : admin
 ```
 * Project Overview Video. (A brief video providing an overview of the project.) :
 ```http
-https://youtu.be/EF6fqnnl3Uk?si=p_0JCeXvXx2tOSgr
+https://drive.google.com/file/d/16MkQLeg4yZax8EX066MczD_g1wYpwW4w/view?usp=sharing
 ```
 
